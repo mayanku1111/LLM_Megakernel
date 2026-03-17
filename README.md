@@ -1,4 +1,4 @@
-I tried to hit 1000+ tokens per second
+### I tried to hit 900+ tokens per second
 
 | Backend      | tok/s  | ms/tok | Speedup |
 | ------------ | ------ | ------ | ------- |
